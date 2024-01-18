@@ -1,0 +1,177 @@
+body{
+    background-color: #CA0226;
+}
+
+/* NAV  */
+.naviv{
+    
+}
+.nav1{
+    margin: auto;
+    margin-top: 50px;
+
+}
+.nav a{
+    color: #ffffff;
+    font-weight: bold;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.logolink{
+    position: relative;
+}
+.bot1 a{
+    color: #CA0226;
+    background-color: #ffffff;
+    border-radius: 20px;
+    width: 130px;
+}
+.bot1 i{
+    position: relative;
+    bottom: 30px;
+    left: 100px;
+    color: #CA0226;
+}
+/* NAV FIN */
+
+
+/* ACCUEIL */
+.container{
+    height: 10200px;
+    width: 1200px;
+    position: fixed;
+    margin-left: 370px;
+    
+}
+.content{
+    top: 150px;
+    position: relative;
+}
+.first{
+    background-color: #C27E7E;
+    height: 700px;
+    width: 1200px;
+    margin: auto;
+    border-radius: 30px;
+}
+.first1{
+    display: flex;
+}
+.first12{
+
+}
+.first121{
+    background-color: #ffffff;
+    color: #CA0226;
+    width: 160px;
+    height: 30px;
+    margin-left: 52px;
+    margin-top: 100px;
+    border-radius: 30px;
+    /* font-weight: bold; */
+}
+.first121 p{
+    margin-left: 28px;
+    top: 2px;
+    position: relative;
+}
+.first1211{
+    margin-top: 20px;
+    margin-left: 50px;
+    color: #ffffff;
+}
+.first12111{
+    font-weight: bold;
+}
+.first121112{
+    font-size: 22px;
+    margin-top: 17px;
+}
+
+
+.first13{
+    margin-left: 24px;
+    margin-top: 100px;
+    position: relative;
+}
+.first13 img{
+    border-radius: 30px;
+}
+
+.bts{
+    height: 72px;
+    width: 420px;
+    background-color: #d6173e;
+    position: relative;
+    margin-top: 120px; 
+    border-radius: 50px;
+    font-size: 20px;
+    display: flex;
+    cursor: pointer;
+}
+.bts a{
+    margin-left: 18px;
+    top: 17px;
+    position: relative;
+}
+.bts1{
+    height: 52px;
+    width: 50px;
+    background-color: #ffffff;
+    color: #CA0226;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 100px; 
+}
+.bts1 i{
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 28px;
+}
+/* ACCUEIL FIN */
+/* PRIX */
+.prix{
+    display: flex;
+    width: 1200px;
+    height: 700px;
+    margin: auto;
+    margin-top: 30px;
+}
+.prix1{
+    width: 400px;
+    height: 700px;
+    background-image: linear-gradient(to right, #9F0E29, #9B1830, #C40024 );
+    max-height: 700px;
+    border-radius: 30px;
+    color: #ffffff;
+}
+.check{
+    
+}
+.check0{
+    display: flex;
+}
+.check00{
+    display: flex;
+}
+.prix2{
+    width: 400px;
+    height: 700px;
+    background-image: linear-gradient(to right, #9F0E29, #9B1830, #C40024 );
+    max-height: 700px;
+    border-radius: 30px;
+}
+.prix3{
+    width: 400px;
+    height: 700px;
+    background-image: linear-gradient(to right, #9F0E29, #9B1830, #C40024 );
+    max-height: 700px;
+    border-radius: 30px;
+}
+
+
+/* PRIX FIN */
